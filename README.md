@@ -11,7 +11,13 @@ Aqui estão, em formato editável, os artefatos que o livro apresenta. A ideia �
 | `modelos/` | Os dez modelos do Apêndice A, de A.1 (página de enquadramento) a A.10 (plano de adoção em trinta dias) | Apêndice A |
 | `checklists/` | O checklist de cada capítulo, com caixas de marcação | Final de cada capítulo |
 | `AGENTS.md` | Exemplo de instruções persistentes para um repositório | Capítulo 2 |
-| `skills/` | Duas habilidades no formato aberto Agent Skills: `contrato-de-tarefa` e `dossie-de-evidencias` | Capítulos 2, 4 e 5 |
+| `skills/` | Cinco habilidades no formato aberto Agent Skills: `discovery-regras`, `requisitos-bdd`, `validacao-pares`, `contrato-de-tarefa` e `dossie-de-evidencias` | Capítulos 2 a 5 |
+
+## Sequência sugerida das skills
+
+`discovery-regras` → `requisitos-bdd` → `validacao-pares` → `contrato-de-tarefa` → (implementação) → `dossie-de-evidencias`
+
+As três primeiras vêm da [Esteira de Desenvolvimento ByteCod3](https://github.com/EderKruz/Codigo-em-Dupla), que cobre o que acontece antes do código: processo, regras e requisitos.
 
 ## Como usar
 
