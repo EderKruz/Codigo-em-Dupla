@@ -17,7 +17,7 @@ Aqui estão, em formato editável, os artefatos que o livro apresenta. A ideia �
 
 `discovery-regras` → `requisitos-bdd` → `validacao-pares` → `contrato-de-tarefa` → (implementação) → `dossie-de-evidencias`
 
-As três primeiras vêm da [Esteira de Desenvolvimento ByteCod3](https://github.com/EderKruz/Codigo-em-Dupla), que cobre o que acontece antes do código: processo, regras e requisitos.
+As três primeiras vêm da Esteira de Desenvolvimento ByteCod3, que cobre o que acontece antes do código: processo, regras e requisitos.
 
 ## Como usar
 
